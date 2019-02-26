@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+}
+
+nav {
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+}
+
+.nav-item {
+    background-color: lightpink;
+}
+
+.nav-link {
+    opacity: 0.7;
+}
+
+.nav-link:hover {
+    opacity: 1;
+    background-color: #eee;
+}
+
+header {
+    width: 100%;
+    background-size: cover;
+    background-image: url("https://images.pexels.com/photos/1037994/pexels-photo-1037994.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    text-align: center;
+}
+
+h1 {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+header p {
+    font-style: italic;
+    font-size: large;
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+}
+
+header button:hover {
+    opacity: 1;
+    background-color: #eee;
+}
