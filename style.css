@@ -8,7 +8,7 @@ nav {
 }
 
 .nav-item {
-    background-color: lightpink;
+    background-color: lightyellow;
 }
 
 .nav-link {
@@ -41,4 +41,25 @@ header p {
 header button:hover {
     opacity: 1;
     background-color: #eee;
+}
+
+.services i{
+    /*Adjust the size and position of the icon*/
+    font-size: 30px;
+    padding: 25px 20px;
+    /*color changes the color of the icon*/
+    color: #fff;
+    background-color: #5bc0de;
+    /*resize the container the icon is in*/
+    width: 80px;
+    height: 80px;
+    /*changes the roundness of the container*/
+    border-radius:50%;
+    text-align: center;
+}
+
+.services span{
+    width:200px;
+    display: inline-block;
+    font-family: 'PT Sans', sans-serif;
 }
