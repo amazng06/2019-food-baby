@@ -27,7 +27,7 @@ header {
     text-align: center;
 }
 
-h1 {
+h2 {
     font-family: 'PT Sans Narrow', sans-serif;
 }
 
@@ -62,4 +62,32 @@ header button:hover {
     width:200px;
     display: inline-block;
     font-family: 'PT Sans', sans-serif;
+}
+
+.team i{
+    font-size: 35px;
+    padding: 30px 25px;
+    color: #fff;
+    background-color: violet;
+    width: 90px;
+    height: 90px;
+    border-radius: 75%;
+    text-align: center;
+}
+
+.team span{
+    text-align: center;
+}
+
+.team h6{
+    text-align: center;
+    font-size: 16px;
+}
+
+.team p{
+    text-align: center;
+}
+
+.team {
+    text-align: center;
 }
