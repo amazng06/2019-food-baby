@@ -7,10 +7,6 @@ nav {
     text-transform: uppercase;
 }
 
-.nav-item {
-    background-color: lightyellow;
-}
-
 .nav-link {
     opacity: 0.7;
 }
@@ -90,4 +86,34 @@ header button:hover {
 
 .team {
     text-align: center;
+}
+
+.pricing {
+    text-align: center;
+}
+
+.pricing div{
+    padding-top: 50px; 
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.contacts .input-group {
+    margin-bottom: 10px;
+}
+
+.contacts i{
+    padding: 17px;
+}
+
+.contacts .btn {
+    background-color: pink;
+}
+
+.contacts .btn:hover{
+    opacity: 1;
+    background-color: #bae;
 }
